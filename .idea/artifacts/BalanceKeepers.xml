@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BalanceKeepers">
+    <output-path>$USER_HOME$/Dropbox/Материалы по игре/Snapshots/BK</output-path>
+    <root id="archive" name="BalanceKeepers.jar">
+      <element id="module-output" name="Balance Keepers" />
+      <element id="library" level="project" name="slick-util" />
+      <element id="library" level="project" name="lwjgl" />
+    </root>
+  </artifact>
+</component>
