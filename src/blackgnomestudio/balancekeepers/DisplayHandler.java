@@ -17,7 +17,7 @@ import org.lwjgl.opengl.GL11;
  * Time: 1:37
  * To change this template use File | Settings | File Templates.
  */
-public class DisplayHandler implements Runnable {
+public class DisplayHandler{
     private int width;
     private int height;
     private GlobalMap globalMap;
@@ -37,7 +37,6 @@ public class DisplayHandler implements Runnable {
         this.height = height;
     }
 
-    @Override
     public void run() {
 
         initGL();

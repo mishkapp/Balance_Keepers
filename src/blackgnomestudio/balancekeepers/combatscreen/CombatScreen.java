@@ -1,11 +1,11 @@
-package blackgnomestudio.balancekeepers;
+package blackgnomestudio.balancekeepers.combatscreen;
 
 /**
  * Created with IntelliJ IDEA.
  * User: mishkapp
- * Date: 01.09.13
- * Time: 16:29
+ * Date: 07.09.13
+ * Time: 0:08
  * To change this template use File | Settings | File Templates.
  */
-public class KeyHandler {
+public class CombatScreen {
 }

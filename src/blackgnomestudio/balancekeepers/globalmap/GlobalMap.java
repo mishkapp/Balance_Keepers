@@ -55,4 +55,18 @@ public class GlobalMap {
     public void setEntity(int x, int y, Entity entity){
         globalMap[x][y].setEntity(entity);
     }
+
+    public static int[] translateToMapCoordinates(int realX, int realY){
+        int[] result = new int[2];
+
+        return result;
+    }
+
+    public static int[] translateToRealCoordinates(int x, int y){
+        int[] result = new int[2];
+        result[0] = x * (Drawable.RESOLUTION_X / 2) + y * (Drawable.RESOLUTION_X / 2);
+        result[1] = x * (-Drawable.RESOLUTION_Y / 2) + y * (Drawable.RESOLUTION_Y / 2);
+
+        return result;
+    }
 }

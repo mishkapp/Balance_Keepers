@@ -6,93 +6,48 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b11fd43-1df0-4277-9587-909204fbc10e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/OpenAL32.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/windows/OpenAL32.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/OpenAL64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/windows/OpenAL64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/textures/maptiles/grassLand1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/textures/maptiles/grassLand2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/textures/maptiles/grassLand3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/textures/maptiles/grassLand4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/jinput-dx8.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/windows/jinput-dx8.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/jinput-dx8_64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/windows/jinput-dx8_64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/jinput-raw.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/windows/jinput-raw.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/jinput-raw_64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/windows/jinput-raw_64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jinput.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/textures/entities/knight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/libjinput-linux.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/linux/libjinput-linux.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/libjinput-linux64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/linux/libjinput-linux64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/libjinput-osx.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/macosx/libjinput-osx.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/liblwjgl.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/macosx/liblwjgl.jnilib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/liblwjgl.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/linux/liblwjgl.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/solaris/liblwjgl.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/liblwjgl64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/linux/liblwjgl64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/solaris/liblwjgl64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/libopenal.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/linux/libopenal.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/solaris/libopenal.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/libopenal64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/linux/libopenal64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/solaris/libopenal64.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/lwjgl.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/windows/lwjgl.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lwjgl.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/lwjgl64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/windows/lwjgl64.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lwjgl_util.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/openal.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/natives/macosx/openal.dylib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/slick-util.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Balance Keepers.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/BalanceKeepers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/DisplayHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Entity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/GrassLandTile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/KeyHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/MapTile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Squad.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lwjgl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/slick_util.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="0b11fd43-1df0-4277-9587-909204fbc10e" name="Default" comment="First">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/combatscreen/CombatScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/CombatScreenHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/Drawable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/GlobalMapHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMapKeyHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Handler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Vector3D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/snakeyaml_1_11_javadoc.xml" />
+      <change type="MOVED" beforePath="C:\Users\mishkapp\IdeaProjects\Balance Keepers\src\blackgnomestudio\balancekeepers\KeyHandler.java" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Camera.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Balance Keepers.iml" afterPath="$PROJECT_DIR$/Balance Keepers.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/DisplayHandler.java" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/DisplayHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Entity.java" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Entity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMap.java" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/Main.java" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java" afterPath="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Balance Keepers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378020278522" ignored="false" />
+    <file path="/Main.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1379007385094" ignored="false" />
     <file path="/DisplayHandler.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378131424405" ignored="false" />
-    <file path="/Tile.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378130524046" ignored="false" />
-    <file path="/GlobalMap.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378131003572" ignored="false" />
+    <file path="/Tile.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1379000938441" ignored="false" />
+    <file path="/GlobalMap.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1379004131227" ignored="false" />
     <file path="/MapTile.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378130737255" ignored="false" />
     <file path="/GrassLandTile.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378053144928" ignored="false" />
     <file path="/fragment.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378034873375" ignored="false" />
     <file path="/Squad.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378110069050" ignored="false" />
-    <file path="/Entity.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378131091444" ignored="false" />
+    <file path="/Entity.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1379000981808" ignored="false" />
     <file path="/Player.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378131287458" ignored="false" />
-    <file path="/Dummy.txt" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378198169310" ignored="false" />
+    <file path="/Dummy.txt" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378958693593" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/artifacts/BalanceKeepers.xml" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378289758058" ignored="false" />
+    <file path="/KeyHandler.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378234097385" ignored="false" />
+    <file path="/GlobalMapKeyHandler.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378234616513" ignored="false" />
+    <file path="/GlobalMapRenderer.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378405267865" ignored="false" />
+    <file path="/Renderer.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378483889344" ignored="false" />
+    <file path="/Camera.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378654200099" ignored="false" />
+    <file path="/Vector3D.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378402880900" ignored="false" />
+    <file path="/CombatScreenHandler.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378490636073" ignored="false" />
+    <file path="/GlobalMapHandler.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1379003785401" ignored="false" />
+    <file path="/a.dummy" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1378995283281" ignored="false" />
+    <file path="/Drawable.java" changelist="0b11fd43-1df0-4277-9587-909204fbc10e" time="1379002326776" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,68 +106,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GlobalMapHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/GlobalMapHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="36" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombatScreenHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/CombatScreenHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="60" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Camera.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Camera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="151" column="0" selection-start="4392" selection-end="4575" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vector3D.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Vector3D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="19" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="45" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DisplayHandler.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/DisplayHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="47" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tile.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="50" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GrassLandTile.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/GrassLandTile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="0" selection-start="1113" selection-end="1299" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Squad.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Squad.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="37" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="59" selection-start="831" selection-end="831" vertical-scroll-proportion="0.5745063">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KeyHandler.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/KeyHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="23" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
+            <state line="75" column="24" selection-start="1948" selection-end="1948" vertical-scroll-proportion="0.2523191">
               <folding />
             </state>
           </provider>
@@ -221,7 +154,16 @@
       <file leaf-file-name="GlobalMap.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="28" selection-start="1301" selection-end="1301" vertical-scroll-proportion="0.0">
+            <state line="68" column="0" selection-start="1934" selection-end="1934" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Drawable.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/Drawable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="67" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -230,7 +172,7 @@
       <file leaf-file-name="MapTile.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/MapTile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="5" selection-start="911" selection-end="911" vertical-scroll-proportion="0.0">
+            <state line="34" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -239,7 +181,16 @@
       <file leaf-file-name="Entity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Entity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="48" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
+            <state line="60" column="62" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tile.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="45" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -271,15 +222,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/Main.java" />
-        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/GrassLandTile.java" />
-        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Squad.java" />
-        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java" />
-        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/MapTile.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMapKeyHandler.java" />
         <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/DisplayHandler.java" />
-        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMap.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMapRenderer.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Vector3D.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/CombatScreen.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/GlobalMapRenderer.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Renderer.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Handler.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/CombatScreenHandler.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java" />
         <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Entity.java" />
-        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Player.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Camera.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/Drawable.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMap.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/GlobalMapHandler.java" />
+        <option value="$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/Main.java" />
       </list>
     </option>
   </component>
@@ -296,7 +254,7 @@
     <OptionsSetting value="false" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -315,7 +273,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -370,6 +328,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="renderers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Balance Keepers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Balance Keepers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="balancekeepers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="globalmap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -396,7 +376,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Balance Keepers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Balance Keepers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="balancekeepers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="globalmap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="entities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Balance Keepers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Balance Keepers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="balancekeepers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="combatscreen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -456,11 +484,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15" />
@@ -469,7 +497,7 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/snakeyaml-1.11.jar!/" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -628,7 +656,11 @@
       <created>1378197586676</created>
       <updated>1378197586676</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First">
+      <created>1378198206947</created>
+      <updated>1378198206947</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -659,17 +691,17 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39930955" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.49816403" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39930955" sideWeight="0.497552" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3256617" sideWeight="0.5226438" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.497552" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.4902081" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.49265605" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32796317" sideWeight="0.49510404" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.67433834" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3256617" sideWeight="0.4730722" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -738,123 +770,115 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/MapTile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="27" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Entity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="41" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/DisplayHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="31" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="52" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="45" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/KeyHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/MapTile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="5" selection-start="911" selection-end="911" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/DisplayHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="47" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="28" selection-start="1301" selection-end="1301" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Entity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="48" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="50" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Squad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="37" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+        <state line="130" column="0" selection-start="3546" selection-end="3692" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/GrassLandTile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1113" selection-end="1299" vertical-scroll-proportion="0.0">
+        <state line="49" column="0" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Squad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="35" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/lwjgl.jar!/org/lwjgl/opengl/GL11.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1642" column="23" selection-start="77547" selection-end="77547" vertical-scroll-proportion="0.3480769" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/combatscreen/CombatScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="25" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="60" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Vector3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="62" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/MapTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/CombatScreenHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="60" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/Drawable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="67" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/tiles/Tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="45" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/entities/Player.java">
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/globalmap/GlobalMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="59" selection-start="831" selection-end="831" vertical-scroll-proportion="0.5745063">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="68" column="0" selection-start="1934" selection-end="1934" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/GlobalMapHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="36" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/renderers/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="0" selection-start="4392" selection-end="4575" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blackgnomestudio/balancekeepers/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="24" selection-start="1948" selection-end="1948" vertical-scroll-proportion="0.2523191">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -924,7 +948,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lwjgl</last-edited>
+          <last-edited>snakeyaml-1.11-javadoc</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
